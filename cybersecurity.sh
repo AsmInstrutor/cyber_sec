@@ -77,7 +77,7 @@ school() {
 	sleep 2
 	clear
 	sleep 1
-	printf "\n[1] - Oque é ataque DoS\n[2] - Oque é ataque DDoS\n[3] - Oque é falha XSS\n[4] - Oque é falha SQLI\n[5] - Oque é LFI e RFI\n\n "|lolcat
+	printf "\n[1] - Oque é ataque DoS\n[2] - Oque é ataque DDoS\n[3] - Oque é falha XSS\n[4] - Oque é falha SQLI\n\n "|lolcat
 
 	read -p "Sua escolha>_ " esc
 
