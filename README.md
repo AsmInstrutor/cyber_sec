@@ -3,7 +3,7 @@
 A Cyber Sec é um projeto feito em Shell Script (Bash) desenvolvida pela Cyber Security-RT, onde possui uma grande variedades de opções que auxiliam tanto em Pentest (Teste de penetração) tanto no aprendizado de iniciantes na area Hacking, a ferramenta étotalmente Open Source (Código Aberto) e pode ser acessada tanto no Termux como no Linux, basta executar os seguintes comandos:
 
 # apt-get install git clone
-# git clone https://...
+# git clone https://github.com/AsmInstrutor/cyber_sec.git
 # cd cyber_sec
 # chmod +x cybersecurity.sh
 # ./cybersecurity.sh ou sh cybersecurity.sh
