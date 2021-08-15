@@ -44,4 +44,6 @@ Cyber Security RT, Grupo responsável pela ferramenta!
 Administração cyber sec: Sasuke, Jankees Softwares, João, Crypt, THzin e Steven
 
 Developer: Jankees Softwares
+
+Grupo afiliado: ENORMITY HACKING ORGANIZATION
  
