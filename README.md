@@ -5,7 +5,7 @@ A Cyber Sec é um projeto feito em Shell Script (Bash) desenvolvida pela Cyber S
 # apt-get install git clone
 # git clone https://github.com/AsmInstrutor/cyber_sec.git
 # cd cyber_sec
-# pip install lolcat && apt-get install figlet
+# pip install lolcat && apt-get install figlet && apt-get install curl
 # chmod +x cybersecurity.sh
 # ./cybersecurity.sh ou sh cybersecurity.sh
 
