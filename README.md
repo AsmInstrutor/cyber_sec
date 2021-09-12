@@ -1,4 +1,4 @@
-<h1>💫I am Jankees Softwares!</h1>
+<h1>💫Hi, i am Jankees Softwares!</h1>
 
 # Cyber Security Tool
    - Ferramenta criada para auxiliar novatos na área Hacking, voltada ao ensino essa ferramenta passa por atualizações a cada meta alcançada!
@@ -14,7 +14,7 @@
     
    ___Agora vamos clonar o repositório___
     
-    git clone
+    git clone https://github.com/AsmInstrutor/cyber_sec.git
     
 
 # Nota:
