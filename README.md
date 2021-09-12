@@ -19,3 +19,9 @@
 
 # Nota:
    - A ferramenta está em processo de atualizações, peço a todos os usuários que ajude no desenvolvimento deixando seu voto, que ajuda o criador (no caso eu) a sempre estar atualizando a mesma! Agradeço a compreensão de todos que ajudam deixando suas stars, eu amo vocês✨
+
+# Agradecimentos:
+   ___AthenaD3V___
+   ___ENORMITY HACKING ORGANIZATION___
+   ___Cyber Security Red Team___
+   ___Jankees Softwares___ (eu) hehe
