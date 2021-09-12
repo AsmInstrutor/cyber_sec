@@ -22,6 +22,9 @@
 
 # Agradecimentos:
    ___AthenaD3V___
+   
    ___ENORMITY HACKING ORGANIZATION___
+   
    ___Cyber Security Red Team___
+   
    ___Jankees Softwares___ (eu) hehe
